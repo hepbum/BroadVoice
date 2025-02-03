@@ -1,0 +1,3 @@
+Step 1 - Install Cypress, npm install cypress --save-dev
+
+Step 2 - Reach the directory with tests and run: npx cypress open or node_modules/.bin/cypress open
