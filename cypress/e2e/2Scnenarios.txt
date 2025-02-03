@@ -1,0 +1,3 @@
+Scenario 1: Verify Sorting By Price
+
+Scenario 2: Check all Filters 
